@@ -1,7 +1,7 @@
 # TODO List #
 
 ## Core MicroServices ##
-- [ ] Notification Service (SMS - Email - Slack)
+- [x] Notification Service (SMS - Email - Slack)
 - [ ] Gateway Service (API Gateway) , microService Registry and CorrelationId
 - [ ] Auth Service (Authentication - Authorization) And SSO
 - [ ] Logging Service (Centralized Logging)
